@@ -248,16 +248,18 @@ background-color:white;
 	align-items:center;
 }
     /* 6th section */
-	
+#sec-5{
+	margin:14px 0;
+}	
 	.icon{
 		display:flex;
 		align-items:center;
 		border:1px solid lightgray;
-		padding:15px 15px;
+		padding:10px 1px;
 		margin:15px 0;
 	}
 	.icon i{
-		font-size:25px;
+		font-size:20px;
 		padding:0 8px;
 	}
 .icon:hover{
@@ -268,7 +270,7 @@ background-color:white;
 	/* 7thsection */
 	
 #sec-6{
-	margin:20px 0;
+	margin:29px 0;
 }
 .head h4{
 	padding:5px 10px;
@@ -285,7 +287,7 @@ background-color:white;
 	position:absolute;
 	border-bottom:1px solid palegreen;
 	width:100px;
-	left:80px;
+	left:88px;
 	top:18px;	
 }
 .card{
@@ -385,6 +387,12 @@ background-color:white;
 	color:gray;
 	font-weight:bold;
 }
+.useful{
+	list-style:none;
+}
+.useful li{
+	list-style:none;	
+}
 .useful h3{
 	  padding:15px 0;
 }
@@ -456,7 +464,7 @@ background-color:white;
 	border-radius:25px;
 	font-size:20px;
 }
-.footer p:hover a{
+.jio:hover a{
 	color:palegreen;
 }
 .icon-1 a:hover i{background-color:palegreen;
