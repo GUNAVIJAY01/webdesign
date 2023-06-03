@@ -10,7 +10,7 @@
 }
 .mentor{
 	align-items:center;
-	justify-content:center;
+	justify-content:space-between;
 	}
 .flex{
 	display:none;
@@ -21,6 +21,20 @@
 .rend{
 	text-align:end;
 }
+.nav {display:block;
+}
+.nav a{padding:8px 18px;
+	border-radius:25px;
+	background-color:#5fcf80;
+	text-decoration:none;
+	color:white;
+}
+.fa{
+	color:black;
+	font-size:44px;
+}
+
+
 .ord-1{
 	order:1;
 }
@@ -64,9 +78,23 @@
 .rend{
 	text-align:end;
 }
+.nav {display:block;
+}
+.nav a{padding:8px 18px;
+	border-radius:25px;
+	background-color:#5fcf80;
+	text-decoration:none;
+	color:white;
+}
+.fa{
+	color:black;
+	font-size:84px;
+}
+
+
 .mentor{
 	align-items:center;
-	justify-content:center;
+	justify-content:space-between;
 }
 .flex{
 	display:none;
